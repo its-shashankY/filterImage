@@ -39,7 +39,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"..\/Homes.tsx"
+         "source":"https://raw.githubusercontent.com/its-shashankY/filterImage/refs/heads/master/Home.tsx"
         }],
  "tilewidth":512,
  "type":"map",
